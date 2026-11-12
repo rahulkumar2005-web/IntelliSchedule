@@ -1,0 +1,13 @@
+course_id,subject,faculty_id,section_id,lectures_per_week
+C01,Python Programming,F01,A,2
+C02,Data Structures,F02,A,2
+C03,Database Management,F03,A,2
+C04,Machine Learning,F04,A,2
+C05,Artificial Intelligence,F05,B,2
+C06,Computer Networks,F06,B,2
+C07,Operating Systems,F07,B,2
+C08,Deep Learning,F08,B,2
+C09,Natural Language Processing,F09,C,2
+C10,Computer Vision,F10,C,2
+C11,Software Engineering,F01,C,2
+C12,Theory of Computation,F02,C,2

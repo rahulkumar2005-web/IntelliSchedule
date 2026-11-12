@@ -1,0 +1,25 @@
+course_id,subject,faculty_id,section_id,lecture_no,day,time,room_id
+C08,Deep Learning,F08,B,2,Monday,10:00-11:00,R102
+C07,Operating Systems,F07,B,1,Monday,11:00-12:00,R105
+C12,Theory of Computation,F02,C,2,Monday,11:00-12:00,R101
+C02,Data Structures,F02,A,2,Monday,12:00-13:00,R103
+C10,Computer Vision,F10,C,1,Monday,12:00-13:00,R106
+C11,Software Engineering,F01,C,1,Monday,14:00-15:00,R106
+C09,Natural Language Processing,F09,C,2,Monday,15:00-16:00,R105
+C09,Natural Language Processing,F09,C,1,Tuesday,09:00-10:00,R106
+C05,Artificial Intelligence,F05,B,2,Tuesday,11:00-12:00,R101
+C01,Python Programming,F01,A,1,Tuesday,12:00-13:00,R101
+C03,Database Management,F03,A,1,Tuesday,14:00-15:00,R101
+C11,Software Engineering,F01,C,2,Wednesday,09:00-10:00,R106
+C04,Machine Learning,F04,A,1,Wednesday,10:00-11:00,R101
+C12,Theory of Computation,F02,C,1,Wednesday,10:00-11:00,R106
+C01,Python Programming,F01,A,2,Wednesday,11:00-12:00,R105
+C06,Computer Networks,F06,B,1,Wednesday,15:00-16:00,R104
+C05,Artificial Intelligence,F05,B,1,Thursday,10:00-11:00,R106
+C04,Machine Learning,F04,A,2,Thursday,11:00-12:00,R102
+C08,Deep Learning,F08,B,1,Thursday,11:00-12:00,R103
+C03,Database Management,F03,A,2,Thursday,12:00-13:00,R105
+C10,Computer Vision,F10,C,2,Thursday,14:00-15:00,R106
+C02,Data Structures,F02,A,1,Friday,09:00-10:00,R103
+C06,Computer Networks,F06,B,2,Friday,09:00-10:00,R104
+C07,Operating Systems,F07,B,2,Friday,10:00-11:00,R106
